@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there I'm Kai 👋
 
+ -  ⚡ I am a head of operations at Ryan-Miranda Partners in Pasadena, California and live in Baton Rouge, Louisiana
+ - 🧠 I am an certifications and degrees relevant
+ - 📫 Reach me at kai@ryan-miranda.com or kaiyokoyama@gmail.com
+ - 🔭 [LinkedIn Profile](https://www.linkedin.com/in/kai-yokoyama-191796177/)
 <!--
 **kaiyokoyama/kaiyokoyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
